@@ -1,0 +1,32 @@
+:root {
+  --menu-text: #4a4a4a;
+  --page-background: #3cdbc0;
+  --principal-text: #ffffff;
+  --font: "Rubik", sans-serif;
+}
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+/* HEADER */
+
+.header {
+}
+
+.icon {
+}
+
+.menu-list {
+}
+
+/* MAIN */
+
+.main {
+}
+
+.text {
+}
+
+/* TABLET AND DESKTOP VERSION */
