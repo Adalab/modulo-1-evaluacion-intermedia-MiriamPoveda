@@ -8,7 +8,6 @@
 * {
   margin: 0;
   padding: 0;
-  text-decoration: none;
 }
 
 /* HEADER */
@@ -30,10 +29,14 @@
   padding-bottom: 10px;
 }
 
+a {
+  color: var(--menu-text);
+  text-decoration: none;
+}
+
 .menu-list {
   list-style: none;
   font-family: var(--font);
-  color: var(--menu-text);
   font-size: 16px;
   display: flex;
   gap: 20px;
