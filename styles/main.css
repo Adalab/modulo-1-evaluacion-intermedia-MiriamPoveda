@@ -20,6 +20,7 @@
   flex-direction: column;
   justify-content: center;
   align-items: center;
+  background-color: white;
 }
 
 .icon {
@@ -41,9 +42,20 @@
 /* MAIN */
 
 .main {
+  background-color: var(--page-background);
+  height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
 }
 
 .text {
+  font-family: var(--font);
+  color: var(--principal-text);
+  font-size: 30px;
+  word-spacing: 100vw;
+  text-align: center;
 }
 
 /* TABLET AND DESKTOP VERSION */
