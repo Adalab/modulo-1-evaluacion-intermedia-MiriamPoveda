@@ -61,6 +61,7 @@ a {
   font-size: 30px;
   word-spacing: 100vw;
   text-align: center;
+  text-transform: capitalize;
 }
 
 /* TABLET AND DESKTOP VERSION */
