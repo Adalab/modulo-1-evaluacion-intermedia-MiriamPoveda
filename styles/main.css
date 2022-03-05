@@ -41,6 +41,7 @@ a {
   display: flex;
   gap: 20px;
   padding-bottom: 13px;
+  text-transform: uppercase;
 }
 
 /* MAIN */
